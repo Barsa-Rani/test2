@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test69Application {
 
 	public static void main(String[] args) {
+		int y=23;
 		SpringApplication.run(Test69Application.class, args);
 	}
 
